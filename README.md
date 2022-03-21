@@ -1,4 +1,4 @@
-# Indesicion app
+# Indecision app
 
 ## Project setup
 ```
